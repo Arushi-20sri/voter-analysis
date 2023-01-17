@@ -3,7 +3,7 @@
 """
 Created on Wed Nov  3 18:25:43 2021
 
-@author: krish
+@author:
 """
 import csv
 import pandas as pd
